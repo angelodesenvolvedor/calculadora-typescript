@@ -24,3 +24,11 @@
 # 📦 Tecnologias usadas:
 
 * ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  
+# 👷 Autor
+
+* **Angelo Silvano** - *Front-End Developer* - [angelodesenvolvedor](https://github.com/angelodesenvolvedor)
+
+# 📄 Licença
+
+* Esse projeto está sob a licença *Apache-2.0 license* - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/calculadora-typescript?tab=Apache-2.0-1-ov-file). 
